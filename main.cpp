@@ -2,10 +2,14 @@
 
 /*
  * Main Lab 6 - Hot plate
+ *
+ * Due Oct 27 (for full early extra-credit, normally due nov 2)
+ *
  * https://learn.zybooks.com/zybook/BYUCS142Fall2021/chapter/6/section/33
- * Pair programming:
- *  Caleb Hill - Section 002
- *  Michael    - Section ###
+ *
+ * Pair programming information:
+ *  Caleb Hill - cah34@byu.edu - Section 005
+ *  Michael <lastname> - Section ###
  */
 /*  Basic Requirements:
  *      Must be done using pair programming:
